@@ -1,0 +1,25 @@
+body {
+    justify-content: center;
+    display: flex;
+}
+
+.container {
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+    background-color: gray;
+}
+
+.container p {
+    text-align: center;
+    font-size: 5rem;
+}
+
+.container button {
+    font-size: 3rem;
+}
